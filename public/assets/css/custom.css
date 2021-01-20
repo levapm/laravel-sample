@@ -1,0 +1,123 @@
+.control-pannel {
+    float: left;
+    width: 100%;
+}
+
+.searchbox {
+    width: 100%;
+    background-color: lightgoldenrodyellow;
+    float: left;
+    padding: 6px;
+}
+
+.searchbox input {
+    width: 120px;
+}
+
+.searchbox select {
+    width: 150px;
+    font-size: 14px;
+    padding-top: 3px !important;
+    padding-bottom: 3px !important;
+}
+
+.searchbox label {
+    margin-left: 10px;
+    padding-right: 5px;
+}
+
+#toast-container>.toast-success {
+    background-color: seagreen;
+}
+
+#toast-container>.toast-error {
+    background-color: tomato;
+}
+
+.pagination {
+    float: right;
+}
+
+.btn-edit {
+    /* padding: 3px; */
+}
+
+.searchbox .btn {
+    margin-top: 5px;
+    border-radius: 5px !important;
+}
+
+.control-pannel h2 {
+    float: left;
+}
+
+.control-pannel label {
+    float: left;
+    margin-top: 8px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.control-pannel .dropdown {
+    float: left;
+    margin-top: 7px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.control-pannel .dropdown button {
+    padding-top: 3px;
+    padding-bottom: 3px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+label#last_update {
+    margin-left: 30px;
+}
+
+label#every {
+    margin-left: 20px;
+}
+
+.modal-header {
+    display: block;
+}
+
+label.error {
+    color: red;
+    margin-top: 3px;
+}
+
+p.profile-name {
+    font-size: 18px;
+    color: white;
+}
+
+.table td,
+.table th {
+    white-space: normal;
+}
+
+label#datetime {
+    margin-top: 12px;
+    margin-left: 40px;
+}
+
+.btn {
+    white-space: nowrap;
+}
+
+tr.stats td {
+    font-size: 20px;
+}
+
+.tbl-orders tr td {
+    padding-top: 22px !important;
+    padding-bottom: 21px !important;
+}
+
+.btn-update {
+    margin-left: 30px;
+    margin-top: 5px;
+}
